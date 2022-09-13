@@ -26,6 +26,6 @@ module.exports = {
 		'react',
 	],
 	rules: {
-		'@typescript-eslint/triple-slash-reference': 'error',
+		'@typescript-eslint/triple-slash-reference': 'off',
 	},
 };
