@@ -2,13 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run clone the repo
+
+Then install npm and run the server
 
 ```bash
+npm i
 npm run dev
 # or
 yarn dev
 ```
+
+You must also run a MongoDB cloud instance - the .env.template file is a template for what your .env.local file should look like
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
